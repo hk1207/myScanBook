@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.613,=C:\Users\hk120\OneDrive\문서\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.433,=C:\Users\hk120\OneDrive\문서\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.976,C:\MyWork\_2023Test\otherAppKeyMain.dfm=C:\MyWork\_2023Test\otherAppKeyMaain.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.929,C:\MyWork\_2023Test\otherAppKey.dproj=C:\Users\hk120\OneDrive\문서\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.417,C:\MyWork\_2023Test\otherAppKeyMaain.pas=C:\Users\hk120\OneDrive\문서\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.417,C:\MyWork\_2023Test\otherAppKeyMaain.dfm=C:\Users\hk120\OneDrive\문서\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.976,C:\MyWork\_2023Test\otherAppKeyMain.pas=C:\MyWork\_2023Test\otherAppKeyMaain.pas</Transaction>
+  </Transactions>
+</BorlandProject>
